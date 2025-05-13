@@ -10,4 +10,4 @@ Want to level up your Django GraphQL skills? Our **Django GraphQL Strawberry Que
 Build GraphQL queries with Django ORM and Strawberry – from models to optimized APIs, fully hands-on.
 
 **View the free-view edition of this course at YouTube**  
-📌 [Click here to view playlist!](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw57rWJJr8yZAec3-j4tX6k)  
+📌 [Click here to view the YouTube playlist!](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw57rWJJr8yZAec3-j4tX6k)  
