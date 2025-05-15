@@ -1,5 +1,6 @@
 ## 🚀 Django GraphQL Strawberry Query Fundamentals Course!  
-Want to level up your Django GraphQL skills? Our **Django GraphQL Strawberry Query Fundamentals Course Course** covers all the fundamental of querying the database with Django and GraphQL.  
+Ready to take your Django skills to the next level with Redis? This course teaches you how to integrate Redis into Django to build real-time, high-performance features — from caching to pub/sub and task queues.
+🎯 Whether you're building dashboards, notifications, or scalable APIs, this course is packed with practical, hands-on lessons.
 
 🔥 **Join the Udemy Course today and start learning!**  
 📌 [Click here to enroll now!](https://www.udemy.com/course/python-django-graphql-strawberry-fundamentals/?referralCode=27A81197360E9B6779C5)
